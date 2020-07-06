@@ -7,9 +7,6 @@ Este é o nosso repositório público do projeto Ambev World, criado no evento M
 
 ---
 
-# 8-)
-
-
 
 ## Sobre o Projeto
 
